@@ -1,0 +1,20 @@
+{
+  "name": "inicial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "cypress": "^13.14.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
