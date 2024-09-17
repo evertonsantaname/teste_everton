@@ -22,5 +22,3 @@ QA - Melhor Envio
 
     Scripts de validação visual da plataforma que são executados nas ferramentas :
         - Percy : Ferramenta de comparação de snapshots.
-        - Nightwatch : Scripts automatizados de validação de interface que rodam em dispositivos e browsers diversos.
-    Execução agendada semanalmente para Segunda Feira 20:30 , relatorio de execução no canal #percy-notification no slack.
